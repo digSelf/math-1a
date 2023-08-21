@@ -1,9 +1,9 @@
 # Calculus 1A (001 LEC) Fall 2019
 
 ## Content
-
-| **Chapter 1: Functions and Models**            | 6 hours |
+|Chapter|Hours|
 | ---------------------------------------------- | ------- |
+| **Chapter 1: Functions and Models**            | 6 hours |
 | **Chapter 2: Limits and Derivatives**          | 8 hours |
 | **Chapter 3: Differentiation Rules**           | 8 hours |
 | **Chapter 4: Applications of Differentiation** | 8 hours |
