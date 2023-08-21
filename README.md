@@ -1,5 +1,15 @@
 # Calculus 1A (001 LEC) Fall 2019
 
+## Content
+
+| **Chapter 1: Functions and Models**            | 6 hours |
+| ---------------------------------------------- | ------- |
+| **Chapter 2: Limits and Derivatives**          | 8 hours |
+| **Chapter 3: Differentiation Rules**           | 8 hours |
+| **Chapter 4: Applications of Differentiation** | 8 hours |
+| **Chapter 5: Integrals**                       | 5 hours |
+| **Chapter 6: Applications of Integration**     | 3 hours |
+
 ## Textbook
 
 The textbook for this course is: **Stewart, *Single Variable Calculus: Early Transcendentals for UC Berkeley***, 8th edition (ISBN: 9781305765276, Cengage).
@@ -10,14 +20,14 @@ This is a custom edition containing chapters 1-9, 11 and 17 of Stewart's "Calcul
 
 ### Week 1
 
-* Four Ways to Represent a Function
-* Essential Functions
+- [x] Four Ways to Represent a Function
+- [x] Essential Functions
 
 ### Week 2
 
-* New Functions from Old Functions
-* Exponential Functions
-* Inverse Functions
+- [ ] New Functions from Old Functions
+- [ ] Exponential Functions
+- [ ] Inverse Functions
 
 
 
